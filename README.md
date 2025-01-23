@@ -1,8 +1,8 @@
 # WebGL-SolarSystem
 
 **This Project was made in collaboration with two other classmates:**<br>
-Pedro Silva
-Renan Silva
+Pedro Silva <br>
+Renan Silva <br>
 
 ## About
 
