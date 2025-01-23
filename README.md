@@ -5,7 +5,6 @@ Pedro Silva <br>
 Renan Silva <br>
 
 ## About
-
 The objective of this project is to use a WebGL library to generate a 3D representation of a solar system.
 
 ## What we learned
@@ -15,8 +14,6 @@ The objective of this project is to use a WebGL library to generate a 3D represe
  - animation
  - shaders
  - light
-
----
 
 ## Interactions:
 1. Pressing the keys ‘1’ and ‘2’ should reset the camera position to the current position of the Earth and the Sun, respectively
