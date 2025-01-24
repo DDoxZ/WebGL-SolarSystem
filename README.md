@@ -1,3 +1,5 @@
+![Project IMG](SolarSystem.png)
+
 # WebGL-SolarSystem
 
 **This Project was made in collaboration with two other classmates:**<br>
