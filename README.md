@@ -1,6 +1,6 @@
-![Project IMG](SolarSystem.png)
-
 # WebGL-SolarSystem
+
+![Project IMG](SolarSystem.png)
 
 **This Project was made in collaboration with two other classmates:**<br>
 Pedro Silva <br>
